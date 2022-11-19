@@ -1,0 +1,19 @@
+# Bike-Analysis-Project
+Analysis of Cyclistic Bike Share Project
+
+The Bike-Share Analysis Capstone Project by Google/Coursera for Google Data Analytics Course.The Data was provided from "Google Data Analytics Case Study | Kaggle".
+I used R Statistical software for the data wrangling with the following packages
+library(tidyr)
+library(dplyr)
+library(readr)
+library(lubridate)
+library(tidyverse)
+library(ggplot2)
+
+Python Jupiter notebook was used to merge the 12 months datasets into one year (2021).
+
+Some metrics was used for the Analysis and visualization on Tableau public (https://public.tableau.com/app/profile/lindibe)
+
+Lastly findings and summary was presented with powerpoint as uploaded here.
+
+Thank you for viewing.
